@@ -29,7 +29,7 @@ un systéme d'information qui permet de gérer et suivre au quotidien, l’ensem
 ---
 **Remarque**
 
-Le potentiel client mesuré par le commercial pour face à la réaction du client lors du RDV.
+Le potentiel client mesuré par le commercial face à la réaction du client lors du RDV.
 
 ---
 
