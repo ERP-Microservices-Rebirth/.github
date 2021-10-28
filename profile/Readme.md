@@ -44,7 +44,6 @@ Le potentiel client mesuré par le commercial face à la réaction du client lor
 
 ## Demonstration
 
-- [Démonstration de Client](https://www.github.com/ajmimalek)
 - [Démonstration de l'API (Zuul Gateway)](https://zuul-gateway-erp.herokuapp.com/routes)
 
 
