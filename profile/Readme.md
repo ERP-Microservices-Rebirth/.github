@@ -25,7 +25,6 @@ un systéme d'information qui permet de gérer et suivre au quotidien, l’ensem
 ### Gestion de la Relation Clients (CRM)
 - Gestion des clients : Affichage, Ajout, Modification et Suppression des clients, filtrer les clients selon leurs secteurs
 - Gestion des Rendez-Vous : Affichage, Ajout, Modification et Suppression des RDV, Gestion des rating des RDVs, Gestion de la pagination, filtrer les RDVs selon les clients et les notes du potentiel client (rating)
-- Gestion des campagnes Mailing : Envoyer un formulaire de satisfactions aux clients suite à l'achat du produit.
 ---
 **Remarque**
 
