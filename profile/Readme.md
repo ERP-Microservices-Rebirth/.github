@@ -20,7 +20,6 @@ un systéme d'information qui permet de gérer et suivre au quotidien, l’ensem
 ### Gestion de Stocks
 - Gestion des produit: Ajout , modification , affichage et suppression , filtrer produits,
 - Gestion des Commandes: Ajout , modification , affichage et suppression , filtrer produit
-- Gestion des stocks: lister les produits en stock ; lister les produits commandés.
 
 ### Gestion de la Relation Clients (CRM)
 - Gestion des clients : Affichage, Ajout, Modification et Suppression des clients, filtrer les clients selon leurs secteurs
